@@ -13,6 +13,7 @@ En este repositorio se encuentran todos los datos y el código utilizado para re
 2. [Concentración](#concentración)
 3. [Estado de ánimo](#estado-de-ánimo)
 4. [Manuales](#manuales)
+5. [Modelos de machine learning](#modelos-de-machine-learning)
 
 ## Sueño
 Dentro de la carpeta sueño se encuentra todo lo relacionado a este estudio, desde los datos utilizados en primera instancia para replicar y mejorar el aprendizaje automático realizado en la fase anterior, así como los datos extraídos para realizar la validación y el algoritmo de agrupamientos. Dicho esto, también se encuentran los códigos correspondientes para la realización del modelo de machine learning y los algoritmos de agrupamiento.
@@ -33,3 +34,18 @@ Dentro se encuentran los manuales de uso de los siguientes dispositivos:
 - ElectroCap con Cyton Board de OpenBCI
 - Biopac MP41
 
+## Modelos de machine learning
+Durante el estudio se aplicaron diferentes algoritmos de ML. Entre ellos está el SVM, Random Forest y KMeans Clustering
+
+### SVM (support vector machine)
+La máquina de soporte de vectores es un algoritmo de aprendizaje supervisado que realiza una separación entre los datos mediante el valor de sus características. El algoritmo crea uno o varios límites, líneas de separación, entre dos o más clases. El límite se ve acompañado de un margen, este es el espacio que hay entre las dos clases y el límite. 
+
+El límite también puede ser modificado para ignorar clases clasificadas erróneamente a través del hiperparámetro C.
+
+### Random Forest
+El algoritmo bosque aleatorio es un algoritmo de aprendizaje supervisado que está constituido por varios árboles de decisión. Estos árboles están construidos por la selección aleatoria de datos de entrenamiento y por un subconjunto de características de entrada. La predicción final es generada por la combinación de todas las predicciones de los árboles.
+
+Uno de los problemas de los algoritmos de aprendizaje automático es el *sobre-ajuste*, el cual se relaciona con la exactitud en la predicción que, a su vez, pueda estar relacionado con la selección de los datos de entrenamiento. Como se realiza una construcción de cada árbol con datos aleatorios de entrenamiento, el sobre-ajuste no resulta ser un inconveniente para este tipo de clasificador.
+
+### K Means Clustering
+El algoritmo k-means es un método de agrupamiento que divide un conjunto de datos en k grupos o clusters. Los datos se agrupan de tal manera que los puntos en el mismo grupo sean más similares entre sí que los puntos en otros grupo. Mediante el parámetro K se establece la cantidad de grupos en los que los datos se van a agrupar.

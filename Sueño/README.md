@@ -1,10 +1,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8.3-blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2020a-darkred)
 # Estudio del sueño
 
 ## Contenido
 1. [Dispositivos](#dispositivos)
 2. [Librerías](#librerías)
-3. [Modelos de Machine Learning](#modelos-de-machine-learning)
 
 ## Dispositivos
 Para el estudio del sueño se utilizó el dispositivo Electro-Cap con la Cyton Board de OpenBCI.
