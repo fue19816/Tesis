@@ -11,7 +11,7 @@ En este repositorio se encuentran todos los datos y el código utilizado para re
 ## Contenido
 1. [Sueño](#sueño)
 2. [Concentración](#concentración)
-3. [Estado de animo](#estado-de-ánimo)
+3. [Estado de ánimo](#estado-de-ánimo)
 4. [Manuales](#manuales)
 
 ## Sueño
