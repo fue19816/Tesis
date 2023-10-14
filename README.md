@@ -11,8 +11,8 @@ En este repositorio se encuentran todos los datos y el código utilizado para re
 ## Contenido
 1. [Sueño](#sueño)
 2. [Concentración](#concentración)
-3. [Estado de animo](#estado-de-animo)
-4. [Manuales](mauales)
+3. [Estado de animo](#estado-de-ánimo)
+4. [Manuales](#manuales)
 
 ## Sueño
 Dentro de la carpeta sueño se encuentra todo lo relacionado a este estudio, desde los datos utilizados en primera instancia para replicar y mejorar el aprendizaje automático realizado en la fase anterior, así como los datos extraídos para realizar la validación y el algoritmo de agrupamientos. Dicho esto, también se encuentran los códigos correspondientes para la realización del modelo de machine learning y los algoritmos de agrupamiento.
