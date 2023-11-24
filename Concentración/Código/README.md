@@ -1,0 +1,2 @@
+## Contenido
+En esta carpeta se encuentran dos archivos uno de extensión Python y el segundo con extensión mat de Matlab. En el archivo de Python se realiza el clasificador con Random Forest, mientras que en el archivo de Matlab se realiza el clasificador SVM. Cabe destacar que en el archivo de Matlab no se obtienen características, estas deberán de obtenerse en el archivo de Python, exportarlo e importarlo en Matlab.

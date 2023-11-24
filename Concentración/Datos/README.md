@@ -1,0 +1,6 @@
+## Contenido
+Dentro de esta carpeta se puede encontrar los archivos correspondientes a cada una de las pruebas mencionadas (prueba de operaciones aritméticas mentales y pruebas de Tolouse-Pieron). Cada una de las pruebas está identificado de la siguiente manera: los primeros dos digitos se refiere al número de sujeto de prueba mientras que los siguientes dos digitos se refiere al número de prueba.
+
+En el caso de las pruebas aritméticas al presentar tres variantes, se establece el siguiente orden: 01 se refiere a la prueba sin pulsos binaurales, 02 se refiere a la prueba con reproducción de pulsos binaurales en el último minuto (luego de que el sujeto haya realizado las operaciones aritméticas) y 03 se refiere a la prueba con reproducción de pulsos binaurales mientras se realizan las operaciones aritméticas.
+
+En el caso de la prueba de Tolouse-Pieron, los primeros dos digitos se refieren al número de sujeto de prueba y los siguientes dos números se refiere a la prueba con y sin reproducción de pulsos, siendo 01 la prueba sin reproducción de pulsos binaurales y 02 la prueba con pulsos binaurales.
